@@ -29,9 +29,8 @@
 ## Structure
 Following files are included in the folder:
 
-    localMatching.ipynb             
-    patchMatch.ipynb                
-    directColorTransfer.ipynb       code for Direct color transfer 
+    patchMatch.ipynb                code for patchMatch
+    directColorTransfer.ipynb       code for Color transfer 
     mrfMatch.ipynb                  code for mrfMatch and Local affine transfer
-    getLaplacian.m                  Helper function for mrfMatch
+    getLaplacian.m                  helper function for mrfMatch
     README.md                       this file
