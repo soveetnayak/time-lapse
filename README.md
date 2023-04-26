@@ -29,7 +29,7 @@
 ## Structure
 Following files are included in the folder:
 
-.
+    .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
     ├── src                     # Source files (alternatively `lib` or `app`)
