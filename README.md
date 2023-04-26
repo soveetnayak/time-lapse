@@ -1,5 +1,5 @@
 # Data-driven Hallucination of Different Times of Day from a Single Outdoor Photo
-### Authors: 
+### Authors
 *Yichang Shih,* 
 *Sylvain Paris,* 
 *Fredo Durand,* 
