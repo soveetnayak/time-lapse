@@ -14,7 +14,7 @@
 
 <br>
 
-## System Specifications
+## System Specification
 | Package | Version  |
 | ------  | -------- | 
 | Python  |  3.8.10  |
