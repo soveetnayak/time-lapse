@@ -30,20 +30,14 @@
 Following files are included in the folder:
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
-
-    ./images                              input image
-    ./src/patchMatch.ipynb                code for patchMatch
-    ./src/directColorTransfer.ipynb       code for Color transfer 
-    ./src/mrfMatch.ipynb                  code for mrfMatch and Local affine transfer
-    ./src/getLaplacian.m                  helper function for mrfMatch
-    README.md                             his file
+    ├── images                              input image
+    ├── src                    
+    |   ├── patchMatch.ipynb                code for patchMatch
+    |   ├── directColorTransfer.ipynb       code for Color transfer 
+    |   ├── mrfMatch.ipynb                  code for mrfMatch and Local affine transfer
+    |   └── getLaplacian.m                  helper function for mrfMatch
+    |  
+    └── README.md                           this file
     
 ## Description
 
