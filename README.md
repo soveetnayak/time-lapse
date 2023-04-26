@@ -1,12 +1,15 @@
 # Data-driven Hallucination of Different Times of Day from a Single Outdoor Photo
 ### Authors: 
-*Yichang Shih,* *Sylvain Paris,* *Fredo Durand,* *William T. Freeman*
+*Yichang Shih,* 
+*Sylvain Paris,* 
+*Fredo Durand,* 
+*William T. Freeman*
 
 <br>
 
-## Team SeaWeed
-*Divya Varshini*
-*Souvik Karfa*
+### Team SeaWeed
+*Divya Varshini,*
+*Souvik Karfa,*
 *Soveet Nayak*
 
 <br>
