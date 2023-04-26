@@ -29,6 +29,15 @@
 ## Structure
 Following files are included in the folder:
 
+.
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
     ./images                              input image
     ./src/patchMatch.ipynb                code for patchMatch
     ./src/directColorTransfer.ipynb       code for Color transfer 
