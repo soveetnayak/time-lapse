@@ -38,7 +38,3 @@ Following files are included in the folder:
     |   └── getLaplacian.m                  helper function for mrfMatch
     |  
     └── README.md                           this file
-    
-## Description
-
-
