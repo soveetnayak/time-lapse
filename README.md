@@ -1,5 +1,6 @@
 # Data-driven Hallucination of Different Times of Day from a Single Outdoor Photo
-### Authors: Yichang Shih, Sylvain Paris, Fredo Durand, William T. Freeman
+### Authors: 
+*Yichang Shih,* *Sylvain Paris,* *Fredo Durand,* *William T. Freeman*
 
 <br>
 
