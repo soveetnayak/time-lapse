@@ -7,6 +7,10 @@
 
 <br>
 
+Given a single image as input, we want to automatically create a plausible-looking photo that appears as though it was taken at a different time of the day. This should be done using a database of time lapse videos, of which the input image may not be a part of. Also we want to make the image look realistic, while preserving the colour schema.
+
+<br>
+
 ### Team SeaWeed
 *Divya Varshini,*
 *Souvik Karfa,*
